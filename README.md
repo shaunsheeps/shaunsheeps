@@ -7,11 +7,11 @@ I'm Shawn Fong, a junior fullstack developer at Washington University in St. Lou
 
 🐼 I'm currently looking for an internship for the summer of 2024!
 🐮 Positions I'm interested include:
-- 🌻Backend
+- 🌻 Backend
 - 🌵 Frontend
-- 🐚Fullstack
-- 🐬Embedded
-- ⛄Cybersecurity
+- 🐚 Fullstack
+- 🐬 Embedded
+- ⛄ Cybersecurity
 
     
   #### Bizness
