@@ -17,7 +17,7 @@ I'm Shawn Fong, a junior fullstack developer at Washington University in St. Lou
 
     
   #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/shaunsheeps/shaunsheeps/blob/main/Resumes/ShawnFongResumeSpring24V2.pdf)
+- :paperclip: [My Resume/CV](https://github.com/shaunsheeps/shaunsheeps/blob/main/Resumes/PublicResume.pdf)
 - :email: f.shawn@wustl.edu
 
 
