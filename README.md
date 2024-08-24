@@ -2,12 +2,12 @@
 
 🚀 Check out my New Portfolio [shawndafong.com][Incoming with the next update]
 
-I'm Shawn Fong, a junior fullstack developer at Washington University in St. Louis majoring in Computer Science and Business. I spend my time coding different projects to make my life easier.
+I'm Shawn Fong, a fullstack developer at Washington University in St. Louis majoring in Computer Science and Business. I spend my time coding different projects to make my life easier.
 
 
 ### What I'm Currently Looking For
 
-🐼 I'm currently looking for an internship for the summer of 2024!
+🐼 I'm currently looking for an internship for the summer of 2025 or fulltime!
 🐮 Positions I'm interested include:
 - 🌻 Backend
 - 🌵 Frontend
