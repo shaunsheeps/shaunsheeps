@@ -7,7 +7,7 @@ I'm Shawn Fong, a fullstack developer at Washington University in St. Louis majo
 
 ### What I'm Currently Looking For
 
-🐼 I'm currently looking for an internship for the summer of 2025 or fulltime!
+🐼 I'm currently looking for a fulltime job!
 🐮 Positions I'm interested include:
 - 🌻 Backend
 - 🌵 Frontend
