@@ -16,7 +16,7 @@ I'm Shawn Fong, a fullstack developer at Washington University in St. Louis majo
 - ⛄ Cybersecurity
 
     
-  #### Bizness
+  #### Contact Me!
 - :paperclip: [My Resume/CV](https://github.com/shaunsheeps/shaunsheeps/blob/main/Resumes/PublicResume.pdf)
 - :email: f.shawn@wustl.edu
 
