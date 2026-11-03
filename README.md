@@ -1,7 +1,5 @@
 ## Hi I'm Shawn <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my New Portfolio [shawndafong.com][Incoming with the next update]
-
 I'm Shawn Fong, a fullstack developer at Washington University in St. Louis majoring in Computer Science and Business. I spend my time coding different projects to make my life easier.
 
 
@@ -10,15 +8,8 @@ I'm Shawn Fong, a fullstack developer at Washington University in St. Louis majo
 🐼 I'm currently looking for a fulltime job!
 🐮 Positions I'm interested include:
 - 🌻 Backend
-- 🌵 Frontend
 - 🐚 Fullstack
-- 🐬 Embedded
 - ⛄ Cybersecurity
-
-    
-  #### Contact Me!
-- :paperclip: [My Resume/CV](https://github.com/shaunsheeps/shaunsheeps/blob/main/Resumes/PublicResume.pdf)
-- :email: f.shawn@wustl.edu
 
 
 #### Top Technologies
